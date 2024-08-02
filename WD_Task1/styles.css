@@ -37,7 +37,7 @@ body, html {
 }
 
 .nav-item a:hover {
-    color: #ff6347; /* Tomato color */
+    color: #ff6347; 
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
 }
@@ -45,7 +45,7 @@ body, html {
 section {
     padding: 60px 20px;
     height: 100vh;
-    margin-top: 50px; /* Offset for the fixed navbar */
+    margin-top: 50px; 
 }
 
 #home { background-color: #f1f1f1; }
@@ -86,7 +86,7 @@ section {
 }
 
 .footer a {
-    color: #ff6347; /* Tomato color */
+    color: #ff6347; 
     text-decoration: none;
     margin: 0 5px;
     transition: color 0.3s, transform 0.3s;
